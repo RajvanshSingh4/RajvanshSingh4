@@ -64,6 +64,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajvanshSingh4)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake-dark.svg">
