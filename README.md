@@ -8,7 +8,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2>&nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Rajvansh Singh
@@ -48,12 +48,15 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ---
 
 
-<h2> 🚀 &nbsp;Languages & Tools</h2>
+<h2>&nbsp;Languages & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,git,docker,html,css,fastapi,sklearn,bootstrap,postman,flask,selenium,figma,c,sqlite,bash,powershell" />
   </a>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 
           
 <p align="center">
