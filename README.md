@@ -59,6 +59,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/main/github_stats.svg" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajvanshSingh4)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake-dark.svg">
