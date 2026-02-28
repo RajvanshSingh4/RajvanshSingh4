@@ -60,11 +60,13 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 <p align="center">
-  <img src="./stats/github-stats.svg" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak" /></a>
+  <img src="./stats/github-stats.svg" width="50%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak" width="50%"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajvanshSingh4)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="./stats/top-langs.svg"/>
+</p>
 
 <p align="center">
   <picture>
