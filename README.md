@@ -58,7 +58,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 
-[![Rajvansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajvanshSingh4)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/master/github_stats.svg" />
+</p>
 
 <p align="center">
   <picture>
