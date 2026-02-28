@@ -59,8 +59,14 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 
 [![Rajvansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajvanshSingh4)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/RajvanshSingh4/RajvanshSingh4/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
           
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
