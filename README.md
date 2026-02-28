@@ -68,6 +68,12 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a> 
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,git,docker,html,css,fastapi,sklearn,bootstrap,postman,flask,figma,c,sqlite,render" />
+  </a>
+</p>
+
           
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
