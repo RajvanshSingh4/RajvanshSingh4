@@ -59,8 +59,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/main/github_stats.svg" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="./stats/github-stats.svg" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
