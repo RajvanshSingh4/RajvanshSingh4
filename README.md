@@ -56,10 +56,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/master/github_stats.svg" />
+  <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/main/github_stats.svg" />
 </p>
 
 <p align="center">
