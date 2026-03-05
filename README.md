@@ -86,14 +86,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 <p align="center">
-  <img width=467 src="./stats/github-stats.svg"/>
-  <a width=390 href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak"/></a>
-</p>
-
-<p align="center">
-  <img src="./stats/github-stats.svg" width="49%" />
+  <img src="./stats/github-stats.svg" width="49%" style="vertical-align:bottom" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" width="49%" />
+    <img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark&card_height=207" alt="GitHub Streak" width="49%" style="vertical-align:bottom" />
   </a>
 </p>
 
