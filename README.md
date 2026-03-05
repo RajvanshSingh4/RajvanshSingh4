@@ -7,8 +7,9 @@
 </div>
 
 ---
-
+<div align="center">
 <h2>&nbsp;A Little Bit About Me and My Interests</h2>
+</div>
 
 ```yaml
 name: Rajvansh Singh
@@ -47,26 +48,23 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 ---
 
+<div align="center">
+<h2>&nbsp;Languages, Frameworks & Tools</h2>
+</div>
 
-<h2>&nbsp;Languages & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,git,docker,html,css,fastapi,sklearn,bootstrap,postman,flask,selenium,figma,c,sqlite,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,git,docker,html,css,fastapi,sklearn" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,postman,flask,selenium,figma,c,sqlite,vscode,bash,powershell" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/main/github_stats.svg" />
-</p>
+<br/>
+<hr/>
 
-<p align="center">
-  <img src="./stats/github-stats.svg"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak"/></a>
-</p>
-
-<p align="center">
-  <img src="./stats/top-langs.svg"/>
-</p>
+<div align="center">
+<h2>&nbsp;My Contributions</h2>
+</div>
 
 <p align="center">
   <picture>
@@ -74,6 +72,26 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajvanshSingh4/RajvanshSingh4/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<br/>
+<hr/>
+
+<div align="center">
+<h2>&nbsp;My Stats</h2>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RajvanshSingh4/github-stats-terminal/main/github_stats.svg" />
+</p>
+
+<p align="center">
+  <img width=390 src="./stats/github-stats.svg"/>
+  <a width=390 href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RajvanshSingh4&theme=dark" alt="GitHub Streak"/></a>
+</p>
+
+<p align="center">
+  <img src="./stats/top-langs.svg"/>
 </p>
           
 <p align="center">
