@@ -7,6 +7,21 @@
 </div>
 
 ---
+
+<div align="center">
+<h2>&nbsp;Let's Connect and have a Chat!</h2>
+</div>
+
+<p align="center">
+<a href="https://linkedin.com/in/rajvansh-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvansh-singh" height="30" width="40" /></a>
+<a href="https://twitter.com/RajvanshSingh29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajvanshSingh29" height="30" width="40" /></a>
+<a href="https://hackerrank.com/rajvanshsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajvanshsingh4" height="30" width="40" /></a>
+<a href="https://leetcode.com/rajvanshsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvanshsingh4" height="30" width="40" /></a>
+</p>
+
+<br/>
+<hr/>
+
 <div align="center">
 <h2>&nbsp;A Little Bit About Me and My Interests</h2>
 </div>
