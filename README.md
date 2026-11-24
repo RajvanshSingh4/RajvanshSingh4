@@ -32,10 +32,9 @@ located_in: Noida, India
 current_job: Full Stack Developer
 education:
   [
-    "Self-Taught Developer",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Developer"
   ]
-company: Soulber
+company: Applofy
 
 fields_of_interests:
   [
@@ -47,14 +46,11 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Python Developer"
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+currently_learning: ["Data Structures & Algorithms, Docker, AWS"]
+2027 Goals: ["Start contributing to open-source, Dive deep into AI & its history, Get into GSOC, Get first Freelance gig, Land a high paying job"]
 hobbies: ["Chess", "Gaming", "Art", "Comedy"]
 ```
 
