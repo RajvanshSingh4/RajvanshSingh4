@@ -28,23 +28,20 @@
 
 ```yaml
 name: Rajvansh Singh
-located_in: Calgary, Alberta
+located_in: Noida, India
 current_job: Full Stack Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
+    "Self-Taught Developer",
     "Bachelor's in Electronics and Communication",
   ]
 company: Soulber
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
     "Machine Learning",
+    "Web Development",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
@@ -58,7 +55,7 @@ technical_background:
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Chess", "Gaming", "Art", "Comedy"]
 ```
 
 ---
